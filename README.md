@@ -8,4 +8,4 @@ It is the maximum possible result after continously compounding, 100% growth ove
 source: https://www.investopedia.com/terms/e/eulers-constant.asp#:~:text=Euler's%20number%20is%20an%20important,repeats%20(similar%20to%20pi).
 
 
-The python notebook shows how we derive the number
+The jupyter notebook shows how we derive the number
